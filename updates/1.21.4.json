@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.2",
+  "minecraft": "1.21.4",
+  "url": "https://github.com/Mik0lvj/H2O-CLIENT-Updates/releases/download/v1.0.2/h2o-client-1.0.2.jar",
+  "sha256": "1B4A890B4ABB14AC35D3445019F678C3E668BDA4C93E5221A09C5CADE412EFD3"
+}
